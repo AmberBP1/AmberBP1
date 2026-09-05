@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Amber 👋
 
-<!--
-**AmberBP1/AmberBP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a minor in Cybersecurity.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🎓 Studying Computer Science
+- 🔐 Minoring in Cybersecurity
+- 💻 Interested in programming, technology, and cybersecurity
+- 🌱 Currently building my skills and working on new projects
+- 📚 Learning more about software development and cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming
+- Problem Solving
+- Git & GitHub
+
+## 🚀 Projects
+I'll be adding my class projects and personal projects here as I continue building my portfolio.
